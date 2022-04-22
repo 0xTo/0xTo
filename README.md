@@ -17,7 +17,7 @@ Skills: Learning (Java, Python, Go, C)
 - 🌱 I’m currently learning to be a better me. 
 
 ## My projects
-[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=TheoM-e&repo=Satoshi-DiscordCryptoBot&show_owner=true)](https://github.com/TheoM-e/Satoshi-DiscordCryptoBot)
+
 <a href="https://github.com/TheoM-e/Satoshi-DiscordCryptoBot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheoM-e&repo=Satoshi-DiscordCryptoBot&show_owner=true)" />
 </a>
