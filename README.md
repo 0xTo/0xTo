@@ -18,3 +18,9 @@ Skills: Learning (Java, Python, Go, C)
 
 ## My projects
 [![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=TheoM-e&repo=Satoshi-DiscordCryptoBot&show_owner=true)](https://github.com/TheoM-e/Satoshi-DiscordCryptoBot)
+<a href="https://github.com/TheoM-e/Satoshi-DiscordCryptoBot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheoM-e&repo=Satoshi-DiscordCryptoBot&show_owner=true)" />
+</a>
+<a href="https://github.com/TheoM-e/UniPass">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheoM-e&repo=UniPass&show_owner=true)" />
+</a>
