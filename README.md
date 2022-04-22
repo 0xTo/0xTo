@@ -23,5 +23,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheoM-e&repo=Satoshi-DiscordCryptoBot&show_owner=true)" />
 </a>
 <a href="https://github.com/TheoM-e/UniPass">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheoM-e&repo=UniPasds&show_owner=true)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheoM-e&repo=UniPass&show_owner=true)" />
 </a>
