@@ -22,3 +22,4 @@
 <a href="https://github.com/TheoM-e/Satoshi-DiscordCryptoBot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheoM-e&repo=Satoshi-DiscordCryptoBot&show_owner=true" />
 </a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheoM-e&repo=Unipass)](https://github.com/TheoM-e/Unipass)
