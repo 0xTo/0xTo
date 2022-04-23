@@ -10,7 +10,7 @@
 🚀 I have other hobbies like space, economy, and science.<br />
 
 ## Skills
-#### Learning (Java, Python, Go, C)
+#### Learning (Java, Python, Go, C, soon Rust)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoM-e&layout=compact)](https://github.com/TheoM-e/)
 
