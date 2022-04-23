@@ -19,8 +19,6 @@
 
 ## My projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheoM-e&repo=Unipass)](https://github.com/TheoM-e/Unipass)
-
 <a href="https://github.com/TheoM-e/Unipass">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheoM-e&repo=Unipass&show_owner=true" />
 </a>
