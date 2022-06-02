@@ -1,5 +1,5 @@
 # Hi there 👋, My name is Théo
-### I am a young french - <img src="https://media0.giphy.com/media/x8r9ko36SAFSoMnFN1/giphy.gif?cid=790b7611659a542c656387ad297081e84810a66d8a897c0a&rid=giphy.gif&ct=g" width="25px"> - developer apprentice<br />
+### I am a young french - <img src="https://media0.giphy.com/media/x8r9ko36SAFSoMnFN1/giphy.gif?cid=790b7611659a542c656387ad297081e84810a66d8a897c0a&rid=giphy.gif&ct=g" width="5px"> - developer apprentice<br />
 
 [![Théo's stats](https://github-readme-stats.vercel.app/api?username=TheoM-E&show_icons=true&count_private=true&include_all_commits=true&theme=onedark&hide=prs,contribs)](https://github.com/TheoM-e/)<br />
 
