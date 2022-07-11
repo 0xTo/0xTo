@@ -9,11 +9,6 @@
 🗺 I also like to travel a lot, especially in countries very different from mine and discover new people, new personalities, new everyday life.<br />
 🚀 I have other hobbies like space, economy, and science.<br />
 
-## Skills
-#### Learning (Java, Python, Go, soon Rust)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoM-e&layout=compact)](https://github.com/TheoM-e/)
-
 - 🔭 I’m currently working on personnal projects (some are opensources). 
 - 🌱 I’m currently learning to be a better me. 
 
