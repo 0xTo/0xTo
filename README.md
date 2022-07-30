@@ -18,11 +18,9 @@
 
 ## My projects
 
-Now private
-
 <a href="https://github.com/TheoM-e/Satoshi-DiscordCryptoBot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=&repo=Satoshi-DiscordCryptoBot&show_owner=true)" />
 </a>
 <a href="https://github.com/TheoM-e/Unipass">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=&repo=Unipass&show_owner=true)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=&repo=Unipass&show_owner=true)"  />
 </a>
