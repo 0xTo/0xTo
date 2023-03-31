@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on personnal projects (some are opensources).  
 
 ## Skills
-#### Learning Java, C, Python, Go, and soon Rust
+#### Learning Java, C, Python and a bit of Go.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoM-e&layout=compact)](https://github.com/TheoM-e/)
 
