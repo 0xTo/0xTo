@@ -5,9 +5,6 @@
 
 ## About me
 🌠 Passionate about computers since I was very (very) young, I am very curious and I like to learn and discover new things. <br />
-🌟For some time I have been learning programming and I would like to make my job. I am someone with a lot of convictions.<br />
-🗺 I also like to travel a lot, especially in countries very different from mine and discover new people, new personalities, new everyday life.<br />
-🚀 I have other hobbies like space, economy, and sciences.<br />
 
 - 🔭 I’m currently working on personnal projects (some are opensources).  
 
