@@ -15,8 +15,8 @@
 
 ## My projects
 
-<a href="https://github.com/TheoM-e/Satoshi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheoM-e&repo=Satoshi&show_owner=true)" />
+<a href="https://github.com/TheoM-e/SuperCalc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheoM-e&repo=SuperCalc&show_owner=true)" />
 </a>
 <a href="https://github.com/TheoM-e/Piscine42">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheoM-e&repo=Piscine42&show_owner=true)"  />
