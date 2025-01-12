@@ -19,7 +19,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xTo&repo=SuperCalc&show_owner=true)" />
 </a>
 <a href="https://github.com/0xTo/Piscine42">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xTo&repo=Piscine42&show_owner=true)"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xTo&repo=Piscine42&show_owner=true)" />
 </a>
 <a href="https://github.com/0xTo/All-42-subject">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xTo&repo=All-42-subject&show_owner=true)">
