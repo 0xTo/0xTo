@@ -20,5 +20,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheoM-e&repo=All-42-subject&show_owner=true)">
 </a>
 <a href="https://github.com/TheoM-e/BingoMC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xTo&repo=TheoM-e&show_owner=true)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheoM-e&repo=TheoM-e&show_owner=true)">
 </a>
